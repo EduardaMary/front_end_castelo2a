@@ -2,8 +2,8 @@
 
 OLÁ,meu nome é **Maria Eduarda**👋👋
 
-💻⌨ Atualmente estou apredendo Programção Front- End, no 2 ano do Ensino Médio
+💻⌨ Atualmente estou apredendo Programação Front- End, no 2 ano do Ensino Médio
 
-Estou interesada em aprender a programr novas linguagens
+Estou intersesada em aprender a programar novas linguagens
 
 Email: ossovski.maria@escola.pr.gov.br
