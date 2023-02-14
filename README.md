@@ -7,3 +7,6 @@ OLÁ,meu nome é **Maria Eduarda**👋👋
 Estou intersesada em aprender a programar novas linguagens
 
 Email: ossovski.maria@escola.pr.gov.br
+
+Link:
+{clique aqui} https://classroom.google.com/u/0/h
