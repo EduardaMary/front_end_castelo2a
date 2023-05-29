@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Exemplo de Formulário</title>
+    </head>
+
+    <body>
+        <header>
+            <h1>Formulário de Contato</h1>
+        </header>
+        <main>
+    <form>
+        <fieldset>
+            <legend>Informações Pessoais</legend>
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required>
+
+            <br><br>
+
+            <section class="inputBox">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <br><br>
+
+            <section class="inputBox">
+            <label for="phone">Telefone:</label>
+            <input type="text" id="phone" name="phone" required>
+
+            <br><br>
+            
+            <label for="gender">Gênero:</label>
+            <input type="radio" id="gender-male" name="gender" value="male">
+            <label for="gender-male">Masculino</label>
+            <input type="radio" id="gender-female" name="gender" value="female">
+            <label for="gender-female">Feminino</label>
+        </fieldset>
+
+            <br><br>
+            
+        <fieldset>
+            <legend>Informações Adicionais</legend>
+            <label for="subject">Assunto:</label>
+            <input type="text" id="subject" name="subject" required>
+            
+            <br><br>
+            
+        <label for="message">Mensagem:</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+            
+            <br><br>
+            
+        <label for="interests">Interesses:</label>
+        <input type="checkbox" id="interests-sports" name="interests" value="sports">
+        <label for="interests-sports">Esportes</label>
+        <input type="checkbox" id="interests-music" name="interests" value="music">
+        <label for="interests-music">Música</label>
+        <input type="checkbox" id="interests-art" name="interests" value="art">
+        <label for="interests-art">Arte</label>
+    </fieldset>
+
+    <fieldset>
+        <legend>País de origem</legend>
+        <label for="country">País:</label>
+        <select id="country" name="country">
+            <option value="brasil">Brasil</option>
+            <option value="eua">Estados Unidos</option>
+            <option value="canada">Canadá</option>
+            <option value="uk">Reino Unido</option>
+        </select>
+    </fieldset>
+
+    <input type="submit" value="Enviar">
+</form>
+        </main>
+        <footer>
+            <p>io</p>
+        </footer>
